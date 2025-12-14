@@ -1,0 +1,13 @@
+*Amulette d'arrêt du temps.*
+
+  Activation :
+  - Le coût d'activation est 1 action cependant, 1 fois par jour elle peut être activer au pris d'une action bonus
+
+  Pouvoir :
+  - Autant de fois que désiré par jour l'amulette peut être activée pour arrêter le temps => durée : 2 tours
+  - Liée à son porteur. Ne peut pas être volé ou oublié. 
+  - Peut être enlevée et posée volontairement mais personne d'autre ne peut l'équiper.
+
+  Contraintes : 
+  - Quand l'utilisateur intéragie avec un être vivant il finit son action et le temps reprend son court.
+  - L'utilisation de tout espace dimensionnel perturbe l'amulette, l'empêchant de fonctionner avant un repos long.
