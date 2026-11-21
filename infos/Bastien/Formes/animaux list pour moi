@@ -1,0 +1,412 @@
+🐀 Rat
+
+Bête
+
+CA 10 | PV 1 (1d4-1) | VD 6m, escalade 6m
+
+FOR 2 (-4) DEX 11 (+0) CON 9 (-1) INT 2 (-4) SAG 10 (+0) CHA 4 (-3)
+
+Sens aiguisés. Avantage perception basée odorat
+Furtif. avantage discrétion en milieu urbain ou sombre
+
+Attaque : Morsure +2, 1 dégât perforant
+
+🐈 Chat
+
+Bête
+
+CA 12 | PV 2 | VD 9m, escalade 6m
+
+FOR 3 DEX 15 CON 10 INT 3 SAG 12 CHA 7
+
+Chute féline. pas de dégâts de chute courte
+Furtivité naturelle. avantage discrétion
+
+Morsure +4, 1d4 perforant
+
+🐕 Chien
+
+Bête
+
+CA 12 | PV 5 | VD 12m
+
+FOR 11 DEX 13 CON 12 INT 3 SAG 12 CHA 7
+
+Odorat supérieur. avantage perception
+Fidèle instinct. avantage poursuite de cible
+
+Morsure +4, 1d6+1
+
+🐺 Loup
+
+Bête
+
+CA 13 | PV 11 | VD 12m
+
+FOR 12 DEX 15 CON 12 INT 3 SAG 12 CHA 6
+
+Tactique de meute. avantage si allié à 1,5m
+
+Morsure +4, 2d4+2
+Si touche : cible peut être renversée (FOR DD 12)
+
+🐕 Hyène
+
+Bête
+
+CA 12 | PV 8 | VD 12m
+
+FOR 11 DEX 13 CON 12 INT 2 SAG 12 CHA 5
+
+Rire nerveux. intimidation + avantage contre cible blessée
+
+Morsure +4, 2d6+1
+Si cible à terre : avantage attaque
+
+🐆 Panthère
+
+Bête
+
+CA 13 | PV 13 | VD 15m, escalade 9m
+
+FOR 14 DEX 16 CON 13 INT 3 SAG 14 CHA 8
+
+Furtivité parfaite. avantage discrétion
+Bond. +3m saut sans élan
+
+Griffes +5, 1d6+3
+Morsure +5, 1d8+3
+Pounce. si charge : renverse cible
+
+🐗 Sanglier
+
+Bête
+
+CA 11 | PV 11 | VD 12m
+
+FOR 16 DEX 11 CON 15 INT 2 SAG 9 CHA 5
+
+Charge brutale. +2d6 dégâts si 6m de course
+
+Défense naturelle. résistance perforant non magique en charge
+
+Croc +5, 2d6+3
+
+🕷️ Araignée géante
+
+Bête
+
+CA 14 | PV 12 | VD 9m, escalade 9m
+
+FOR 10 DEX 14 CON 12 INT 2 SAG 11 CHA 4
+
+Toile. 1/jour, immobilisation zone 3m (DEX DD 12)
+Mur vertical. escalade sans test
+
+Morsure +4, 1d6+2 + poison (1d6 CON)
+
+🦡 Taupe géante
+
+Bête
+
+CA 12 | PV 13 | VD 6m, tunnel 6m
+
+FOR 14 DEX 10 CON 14 INT 2 SAG 10 CHA 4
+
+Tunnel rapide. traverse terre meuble
+Détection vibration.
+
+Morsure +4, 1d8+2
+Charge souterraine +2d6 si sortie de terre
+
+🐯 Tigre noir
+
+Bête
+
+CA 13 | PV 17 | VD 15m, furtivité
+
+FOR 17 DEX 15 CON 14 INT 3 SAG 13 CHA 7
+
+Furtivité nocturne. avantage nuit
+Pounce amélioré.
+
+Griffes +5, 1d8+3
+Morsure +5, 1d10+3
+
+🐻 Ours brun
+
+Bête
+
+CA 13 | PV 34 | VD 12m
+
+FOR 19 DEX 10 CON 16 INT 3 SAG 13 CHA 7
+
+Résistance naturelle. +5 PV temporaire en combat
+
+Multiattaque. 2 attaques/tour
+
+Griffes +6, 1d8+4
+Morsure +6, 1d10+4
+
+🐍 Serpent géant venimeux
+
+Bête
+
+CA 12 | PV 15 | VD 9m, nage 9m
+
+FOR 15 DEX 14 CON 13 INT 2 SAG 10 CHA 3
+
+Constriction. immobilisation (FOR DD 13)
+
+Morsure +4, 1d8+2 + poison (1d6 CON)
+Constriction +4, 1d10+2
+
+🦉 Ours-hibou
+
+Bête magique
+
+CA 13 | PV 30 | VD 9m, vol 12m
+
+FOR 18 DEX 12 CON 16 INT 3 SAG 13 CHA 6
+
+Cri terrifiant. désavantage attaque ennemis proches 1 tour
+
+Griffes +6, 1d10+4
+Morsure +6, 1d10+4
+
+🟦 FORMES VOLANTES
+🪰 Mouche
+
+CA 12 | PV 1 | VD vol 12m
+
+FOR 1 DEX 14 CON 8 INT 1 SAG 10 CHA 3
+
+Inaperçue. discrétion automatique si immobile
+Évasion.
+
+🐦 Pivert
+
+CA 12 | PV 3 | VD vol 12m
+
+FOR 5 DEX 14 CON 10 INT 2 SAG 12 CHA 5
+
+Détection bois creux.
+
+Pic +3, 1d4
+
+🐿️ Écureuil volant
+
+CA 13 | PV 4 | VD vol 12m
+
+FOR 4 DEX 16 CON 10 INT 2 SAG 12 CHA 6
+
+Glisse. ne subit pas de chute
+
+Morsure +4, 1d4
+
+🦉 Chouette
+
+CA 12 | PV 3 | VD vol 12m
+
+FOR 3 DEX 15 CON 9 INT 2 SAG 14 CHA 6
+
+Vision nocturne parfaite
+Vol silencieux
+
+🐦 Corbeau
+
+CA 12 | PV 3 | VD vol 15m
+
+FOR 4 DEX 14 CON 10 INT 3 SAG 12 CHA 6
+
+Imitation vocale.
+
+🦅 Faucon
+
+CA 13 | PV 4 | VD vol 18m
+
+FOR 5 DEX 16 CON 10 INT 2 SAG 14 CHA 6
+
+Vision perçante.
+
+Serres +5, 1d4+2
+
+🦅 Aigle
+
+CA 13 | PV 5 | VD vol 18m
+
+FOR 6 DEX 17 CON 11 INT 2 SAG 15 CHA 6
+
+Plongeon rapide.
+
+Serres +5, 1d6+2
+
+🦉 Hibou géant
+
+CA 13 | PV 19 | VD vol 18m
+
+FOR 13 DEX 15 CON 12 INT 3 SAG 15 CHA 7
+
+Vision nocturne supérieure
+
+Serres +5, 2d6+3
+
+🦇 Chauve-souris géante
+
+CA 12 | PV 15 | VD vol 12m
+
+FOR 12 DEX 16 CON 12 INT 2 SAG 14 CHA 6
+
+Écholocation. aveugle mais perception parfaite
+
+Morsure +5, 1d6+3
+
+🪶 Vautour géant
+
+CA 13 | PV 22 | VD vol 15m
+
+FOR 15 DEX 12 CON 14 INT 3 SAG 12 CHA 7
+
+Nécrophage. avantage sur ennemis à terre
+
+Morsure +5, 2d4+3
+
+🦅 Aigle géant
+
+CA 14 | PV 26 | VD vol 21m
+
+FOR 16 DEX 17 CON 13 INT 3 SAG 15 CHA 7
+
+Capture. peut emporter créature moyenne
+
+Serres +6, 2d6+3
+
+🦅 Griffon
+
+CA 12 | PV 59 | VD vol 24m
+
+FOR 18 DEX 15 CON 16 INT 3 SAG 13 CHA 8
+
+Multiattaque
+
+Griffes +6, 1d8+4
+Morsure +6, 1d10+4
+
+🦅 Corbeau d’acier
+
+CA 15 | PV 25 | VD vol 15m
+
+FOR 14 DEX 16 CON 14 INT 5 SAG 14 CHA 8
+
+Résistance non magique
+
+Pic métallique +6, 1d8+4
+
+🟩 FORMES AQUATIQUES
+🐟 Saumon
+
+CA 11 | PV 3 | VD nage 12m
+
+FOR 5 DEX 14 CON 10 INT 1 SAG 11 CHA 3
+
+Saut hors eau
+
+🐸 Grenouille
+
+CA 11 | PV 2 | VD nage 12m
+
+FOR 3 DEX 14 CON 10 INT 1 SAG 11 CHA 4
+
+Langue grappin.
+
+🦦 Loutre
+
+CA 12 | PV 6 | VD nage 12m
+
+FOR 8 DEX 14 CON 12 INT 2 SAG 12 CHA 6
+
+Jeu rapide.
+
+🐟 Raie venimeuse
+
+CA 12 | PV 7 | VD nage 15m
+
+FOR 10 DEX 14 CON 12 INT 2 SAG 12 CHA 5
+
+Aiguillon +4, poison
+
+🐍 Anguille
+
+CA 12 | PV 9 | VD nage 15m
+
+FOR 10 DEX 15 CON 12 INT 2 SAG 12 CHA 4
+
+Décharge faible
+
+🐍 Serpent de mer
+
+CA 13 | PV 19 | VD nage 18m
+
+FOR 16 DEX 14 CON 14 INT 2 SAG 12 CHA 6
+
+Constriction
+
+🦈 Requin
+
+CA 12 | PV 22 | VD nage 18m
+
+FOR 18 DEX 13 CON 15 INT 2 SAG 13 CHA 4
+
+Frénésie sanguine
+
+🐙 Pieuvre géante
+
+CA 13 | PV 26 | VD nage 12m
+
+FOR 17 DEX 14 CON 13 INT 3 SAG 12 CHA 6
+
+Tentacules + grappin
+
+⚡ Anguille géante électrique
+
+CA 13 | PV 28 | VD nage 18m
+
+FOR 14 DEX 16 CON 14 INT 3 SAG 12 CHA 5
+
+Décharge électrique
+
+🐊 Crocodile
+
+CA 12 | PV 19 | VD nage 12m
+
+FOR 15 DEX 10 CON 14 INT 2 SAG 10 CHA 5
+
+Morsure + grappin
+
+🦀 Crabe géant
+
+CA 13 | PV 13 | VD nage 9m
+
+FOR 13 DEX 13 CON 12 INT 1 SAG 10 CHA 3
+
+Pinces double immobilisation
+
+🐍 Serpent de mer géant
+
+CA 14 | PV 45 | VD nage 18m
+
+FOR 20 DEX 14 CON 18 INT 3 SAG 14 CHA 8
+
+Constriction massive
+
+🐉 Wivern d’eau (corrigée)
+
+CA 14 | PV 52 | VD nage 15m
+
+FOR 19 DEX 15 CON 17 INT 4 SAG 14 CHA 9
+
+Amphibie. air + eau
+Queue. +7, 1d10+4
+Morsure venimeuse. +7, 2d8+4 + poison
+
+Souffle toxique (Recharge 5-6). cône 4,5m, 3d6 poison, CON DD 14 moitié
